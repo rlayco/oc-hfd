@@ -1,0 +1,4 @@
+config.php
+thumbs.db
+.DS_store
+nbproject/*
