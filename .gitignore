@@ -1,4 +1,10 @@
 config.php
+admin/config.php
 thumbs.db
 .DS_store
 nbproject/*
+system/cache/*
+system/logs/*
+system/images/*
+download/*
+upload/*
